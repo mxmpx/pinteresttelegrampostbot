@@ -32,8 +32,8 @@ Desktop-приложение на Python (Tkinter) для автоматичес
 Клонируйте репозиторий и установите необходимые библиотеки:
 
 ```bash
-git clone https://github.com/your-username/pinterest-tg-bot.git
-cd pinterest-tg-bot
+git clone https://github.com/mxmpx/pinteresttelegrampostbot
+cd pinteresttelegrampostbot
 pip install requests pillow
 
 ```
