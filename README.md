@@ -1,4 +1,4 @@
-# Pinterest to Telegram Auto-Poster (GUI)
+# Pinterest Telegram Post Bot (GUI)
 
 Desktop-приложение на Python (Tkinter) для автоматического отслеживания новых пинов в Pinterest и их публикации в Telegram-канал. Работает через RSS-ленту без необходимости получать официальные API-ключи Pinterest.
 
